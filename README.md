@@ -47,4 +47,4 @@ This study addresses the coordination of multiple CAVs alongside HDVs at a highw
 
 ## Demo
 
-https://github.com/user-attachments/assets/afab4ac5-6ed9-4508-9f12-00304ac6257a
+https://github.com/user-attachments/assets/5c05a050-7543-4649-a554-0747096ed7d5
