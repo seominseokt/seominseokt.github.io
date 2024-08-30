@@ -8,7 +8,7 @@ This study proposes a cooperative merging strategy for connected and automated v
 
 This study addresses the coordination of multiple CAVs alongside HDVs at a highway merging point, focusing on a scenario with one main road and one on-ramp. A control zone allows a coordinator to monitor and manage vehicle movements, optimizing CAV control inputs to ensure safe merging. The merging strategy enforces safe time gaps between vehicles to prevent both lateral and rear-end collisions, ultimately coordinating vehicle arrival times to enhance traffic flow.
 
-![image](https://github.com/user-attachments/assets/19bad611-b024-4371-85b8-62dbaff23f3c)
+![image](https://github.com/user-attachments/assets/4b972389-daf2-4073-8eba-47ec61e12cae)
 
 
 
@@ -41,7 +41,7 @@ This study addresses the coordination of multiple CAVs alongside HDVs at a highw
 
 
 
-![image](https://github.com/user-attachments/assets/242f794c-25a6-4b22-8962-389e7ed40638)
+![image](https://github.com/user-attachments/assets/a22c661a-c0d2-4c4a-b268-bda75d2593d3)
 
 
 
